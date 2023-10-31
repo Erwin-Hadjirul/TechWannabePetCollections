@@ -14,6 +14,6 @@ This system is a pet shopping web application.
 
 1. The Logo of the website emphasizes the owner.
 
-2. In the Home Section, you can see all the pet categories available to buy and a few of their products.
+2. In the Home Section, you can see all the pet categories available to buy and a few of their products. Every category has its own section, and all of their products are shown there.
 
 3. Clicking the picture would direct you to the Details Page of the product or pet. Then, you can add it to the shopping cart, and you may want to checkout it.
