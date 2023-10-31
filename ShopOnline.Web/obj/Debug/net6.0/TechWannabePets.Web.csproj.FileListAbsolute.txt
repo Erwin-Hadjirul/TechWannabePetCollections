@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Wannabe\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\TechWannabePets.Web.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tech Wannabe\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\TechWannabePets.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tech Wannabe\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\TechWannabePets.Web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tech Wannabe\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\TechWannabePets.Web.AssemblyInfo.cs
+C:\Users\User\Desktop\Tech Wannabe\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\TechWannabePets.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Wannabe\ShopOnline\ShopOnline.Web\obj\Debug\net6.0\TechWannabePets.Web.MvcApplicationPartsAssemblyInfo.cache
