@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
+    "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+    "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "projectName": "ShopOnline.Models",
-        "projectPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {
+    "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
         "projectName": "ShopOnline.Web",
-        "projectPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Web\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
+              "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
               }
             }
           }

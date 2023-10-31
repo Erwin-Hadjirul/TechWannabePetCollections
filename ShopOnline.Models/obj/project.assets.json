@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "projectName": "ShopOnline.Models",
-      "projectPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\ShopOnline\\ShopOnline.Models\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
