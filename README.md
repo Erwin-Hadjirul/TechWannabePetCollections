@@ -1,6 +1,6 @@
 # ![Logo](ShopOnline.Web/wwwroot/favicon.ico) TechWannabe Pet Collections
 
-![year](https://img.shields.io/badge/year-2023-blue) ![developer-level](https://img.shields.io/badge/developer--level-mid--level-green)
+![year](https://img.shields.io/badge/year-2023-blue)
 
 This system was made while the owner was learning ***Blazor*** on Youtube from ***FreeCodeCamp.org***. He just adjusted the design and the data, while the other codes are from the tutorial.
 
