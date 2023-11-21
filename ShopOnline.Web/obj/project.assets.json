@@ -1884,19 +1884,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\ShopOnline.Web.csproj",
       "projectName": "ShopOnline.Web",
-      "projectPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\ShopOnline.Web.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\ShopOnline.Web.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1904,14 +1909,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Models\\ShopOnline.Models.csproj"
+            "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Models\\ShopOnline.Models.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Models\\ShopOnline.Models.csproj"
             }
           }
         }

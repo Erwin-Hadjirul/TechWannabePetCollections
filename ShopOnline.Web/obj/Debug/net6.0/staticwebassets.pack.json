@@ -1,231 +1,235 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\obj\\Debug\\net6.0\\build-gz\\5zJaacIf.gz",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\obj\\Debug\\net6.0\\build-gz\\5zJaacIf.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShopOnline.Web.styles.css",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShopOnline.Web.styles.css",
       "PackagePath": "staticwebassets\\ShopOnline.Web.styles.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "PackagePath": "staticwebassets\\css\\open-iconic"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\README.md",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\README.md",
       "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\Budgerigar.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\Budgerigar.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\Budgerigar.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\cackatoo.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\cackatoo.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\cackatoo.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\canary.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\canary.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\canary.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\cockatiel.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\cockatiel.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\cockatiel.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\dove.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\dove.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\dove.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\eclectus-parrot.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\eclectus-parrot.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\eclectus-parrot.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\hyacinth-macaw.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\bird\\hyacinth-macaw.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\bird\\hyacinth-macaw.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\abyssinian.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\abyssinian.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\abyssinian.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\caracal.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\caracal.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\caracal.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\cougar.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\cougar.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\cougar.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\himalayan.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\himalayan.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\himalayan.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\persian.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\persian.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\persian.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\serval.jpeg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\serval.jpeg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\serval.jpeg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\siamese.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\siamese.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\siamese.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\sphynx.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\cat\\sphynx.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\cat\\sphynx.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\beagle.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\beagle.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\dog\\beagle.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\cavalier-king-charles-spaniel.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\cavalier-king-charles-spaniel.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\dog\\cavalier-king-charles-spaniel.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\dalmatian.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\dalmatian.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\dog\\dalmatian.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\pembroke-welsh-corgi.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\pembroke-welsh-corgi.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\dog\\pembroke-welsh-corgi.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\pomeranian.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\pomeranian.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\dog\\pomeranian.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\siberian-husky.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\dog\\siberian-husky.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\dog\\siberian-husky.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\betta-fish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\betta-fish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\betta-fish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\coral-beauty-angelfish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\coral-beauty-angelfish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\coral-beauty-angelfish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\corydoras-catfish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\corydoras-catfish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\corydoras-catfish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\fantail-goldfish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\fantail-goldfish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\fantail-goldfish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\guppy.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\guppy.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\guppy.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\lawnmower-blenny.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\lawnmower-blenny.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\lawnmower-blenny.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\longnose-hawkfish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\longnose-hawkfish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\longnose-hawkfish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\ocellaris-clownfish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\ocellaris-clownfish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\ocellaris-clownfish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\silver-angelfish.jpg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\img\\pet\\fish\\silver-angelfish.jpg",
       "PackagePath": "staticwebassets\\img\\pet\\fish\\silver-angelfish.jpg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\index.html",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\js\\shopping-cart-functions.js",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\js\\local-currency.js",
+      "PackagePath": "staticwebassets\\js\\local-currency.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\js\\shopping-cart-functions.js",
       "PackagePath": "staticwebassets\\js\\shopping-cart-functions.js"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\bg-nav.png",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\bg-nav.png",
       "PackagePath": "staticwebassets\\resources\\bg-nav.png"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\bird.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\bird.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\bird.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\cart-black.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\cart-black.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\cart-black.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\cart.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\cart.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\cart.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\cat.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\cat.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\cat.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\dog.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\dog.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\dog.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\fish.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\fish.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\fish.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\home.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\home.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\home.svg"
     },
     {
-      "Id": "C:\\Users\\User\\Desktop\\TechWannabePetCollections\\ShopOnline\\ShopOnline.Web\\wwwroot\\resources\\icons\\trash.svg",
+      "Id": "C:\\Users\\User\\Desktop\\Tech Wannabe\\New folder\\ShopOnline.Web\\wwwroot\\resources\\icons\\trash.svg",
       "PackagePath": "staticwebassets\\resources\\icons\\trash.svg"
     },
     {

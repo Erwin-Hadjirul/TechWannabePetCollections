@@ -24,7 +24,7 @@ namespace ShopOnline.Web.Services
                     if (response.StatusCode == System.Net.HttpStatusCode.NoContent)
                     {
                         return default;
-                    }    
+                    }
                     else
                     {
                         return await response.Content.ReadFromJsonAsync<IEnumerable<ProductCategoryDto>>();
