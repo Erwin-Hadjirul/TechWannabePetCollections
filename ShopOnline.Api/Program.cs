@@ -13,6 +13,10 @@ var config = builder.Configuration;
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddResponseCompression(options => {
+    options.EnableForHttps = true;
+});
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 //builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSwaggerGen();
@@ -37,15 +41,17 @@ if (app.Environment.IsDevelopment())
     //app.UseSwaggerUI();
 }
 
+app.UseHttpsRedirection();
+
 app.UseCors(policy =>
-    policy.WithOrigins("https://localhost:7219", "http://localhost:7219")
+    policy.WithOrigins("https://localhost:7219", "http://localhost:5009")
     .AllowAnyMethod()
     .WithHeaders(HeaderNames.ContentType)
 );
 
-app.UseHttpsRedirection();
-
 app.UseAuthorization();
+
+app.UseResponseCompression();
 
 app.MapControllers();
 
